@@ -1,0 +1,9 @@
+
+Copy
+
+streamlit
+pandas
+numpy
+scipy
+statsmodels
+patsy
